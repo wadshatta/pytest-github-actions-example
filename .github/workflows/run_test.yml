@@ -37,3 +37,8 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+    - name: console
+      run: |
+        echo "hello , world"
+         
+       
